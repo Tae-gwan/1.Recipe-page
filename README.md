@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Tae-gwan/1.Recipe-page.git)
-- Live Site URL: [Notyet](https://your-live-site-url.com)
+- Live Site URL: [Recipe-page](https://Tae-gwan.github.io/1.Recipe-page)
 
 ## My process
 
