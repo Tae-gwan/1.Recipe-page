@@ -1,0 +1,104 @@
+body {
+    background : hsl(30, 54%, 90%);
+    padding:20px;
+}
+
+h1{
+    font-family:'youngSerif';
+    font-weight: 100;
+}
+
+
+h2{
+    font-family:'youngSerif';
+    font-weight: 100;
+    color:hsl(32, 51%, 31%);
+}
+
+h3{
+    font-family:'outfit';
+    color:hsl(332, 51%, 32%);
+    padding-inline: 18px;
+}
+span{
+    font-family:'outfit';
+}
+
+span.defaultWords{
+    color:hsl(30, 10%, 34%);
+}
+
+li{
+    padding :0px 5px 15px 5px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    padding: 10px 250px 10px 20px; /*상 우 하 좌 -> top right bottom left*/
+}
+
+tr{
+    border-bottom: 0.5px solid hsl(30, 24%, 84%);
+}
+
+.nutritionPart{
+    padding:5px;
+}
+
+.PreparationTime{
+    background-color:hsl(338, 57%, 97%);
+    border-radius: 15px;
+    padding:5px;
+}
+
+.h2List{
+    border-bottom: 0.5px solid hsl(30, 24%, 84%);
+}
+
+.violetList {
+    color:hsl(332, 51%, 32%);
+}
+
+.brownList{
+    color:hsl(32, 51%, 31%);
+    margin-left:-20px;
+}
+
+.liColor{
+    color:hsl(30, 10%, 34%);
+}
+
+.boldText{
+    font-weight:700;
+}
+
+.mainBox{
+    background : white;
+    max-width:660px;
+    margin:0 auto;
+    padding :30px;
+    border-radius: 15px;
+}
+
+.recipeImage{
+    width:100%; /*부모 크기에 따라 조절?*/
+    border-radius:15px;
+}
+
+.value{
+    color:hsl(32, 51%, 31%);
+    font-weight:600;
+}
+
+@font-face {
+    font-family : youngSerif;
+    src: url("assets/fonts/young-serif/YoungSerif-Regular.ttf")
+}
+
+@font-face {
+    font-family : outfit;
+    src: url("assets/fonts/outfit/Outfit-VariableFont_wght.ttf")
+}
