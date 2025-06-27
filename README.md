@@ -15,7 +15,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Tae-gwan/1.Recipe-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Notyet](https://your-live-site-url.com)
 
 ## My process
 
@@ -37,8 +37,8 @@ So plz give me some tips!! Thank you!!
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Notyet](https://www.your-site.com)
+- Frontend Mentor - [@Tae-gwan](https://www.frontendmentor.io/profile/Tae-gwan)
+- Twitter - [@Notyet](https://www.twitter.com/yourusername)
 
 
